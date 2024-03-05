@@ -1,6 +1,4 @@
-// epa Colombia 
-// e e epa colombia 
-// digitales2 
+
 /* mbed Microcontroller Library
  * Copyright (c) 2019 ARM Limited
  * SPDX-License-Identifier: Apache-2.0
